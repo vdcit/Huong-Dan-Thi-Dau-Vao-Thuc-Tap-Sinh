@@ -6,7 +6,7 @@ Hướng dẫn cách làm bài thi đầu vào
 
 Các bạn vào tham dự làm bài thi đầu vào thực tập sinh theo đường dẫn [sau](http://123.30.178.219/moodle/) 
 
-![img](http://i.imgur.com/SHxOf6E.png "img")
+![img](http://i.imgur.com/vDJVTWQ.png "img")
 
 Các bạn tiến hành Login vào bằng tài khoản đã được lập trước đó.
 
